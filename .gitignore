@@ -14,4 +14,6 @@ configuracion.json
 *.txt
 *.pyc
 *.msp
-*.output
+*.outputcredentials.json
+token.pickle
+credentials.json
